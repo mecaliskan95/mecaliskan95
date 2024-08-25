@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mecaliskan95
-- 👀 I’m interested in software engineering, data science, and machine learning.
+- 👀 I’m interested in software engineering, software testing, data science, and machine learning.
 - 🌱 I'm currently expanding my software engineering skills and exploring new technologies.
 - 💞️ I'm looking to collaborate on innovative software projects and data-driven solutions.
 - 📫 How to reach me: mecaliskan95@gmail.com
